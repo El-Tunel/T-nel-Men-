@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Pizza Hawaiana",
+    "desc": "Deliciosa pizza con piña, jamón y queso fundido.",
+    "price": "8.00",
+    "img": "img/pizza-hawaiana.jpg"
+  },
+  {
+    "name": "Hamburguesa Doble",
+    "desc": "Carne jugosa, queso cheddar y pan artesanal.",
+    "price": "6.50",
+    "img": "img/hamburguesa-doble.jpg"
+  },
+  {
+    "name": "Batido de Mango",
+    "desc": "Refrescante y natural, ideal para el calor.",
+    "price": "2.00",
+    "img": "img/batido-mango.jpg"
+  }
+]
